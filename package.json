@@ -29,12 +29,12 @@
     "eslint": "~2.2.0",
     "eslint-loader": "^1.2.1",
     "extract-text-webpack-plugin": "^1.0.1",
-    "handlebars": "^4.0.5",
+    "handlebars": "^4.7.7",
     "handlebars-loader": "^1.4.0",
     "html-webpack-plugin": "^2.22.0",
     "jasmine-core": "^2.4.1",
     "json-loader": "^0.5.4",
-    "karma": "^1.1.2",
+    "karma": "^6.4.1",
     "karma-chrome-launcher": "^1.0.1",
     "karma-jasmine": "^1.0.2",
     "karma-phantomjs-launcher": "^1.0.1",
@@ -43,7 +43,7 @@
     "node-sass": "^3.4.2",
     "sass-loader": "^3.1.2",
     "style-loader": "^0.13.0",
-    "webpack": "^1.12.13"
+    "webpack": "^5.75.0"
   },
   "dependencies": {
     "moment": "^2.17.1"
